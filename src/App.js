@@ -4,7 +4,7 @@ import AdminPanel from './components/adminPanel/AdminPanel';
 import { Link, Route, Routes, useLocation } from 'react-router-dom';
 import Login from './components/login/Login.jsx';
 import { useEffect } from 'react';
-
+// DEJAME DOCKER
 function App() {
   const location = useLocation();
   useEffect(() => {
